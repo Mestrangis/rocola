@@ -1,0 +1,15 @@
+:root { color-scheme: dark; }
+body {
+  margin: 0;
+  background: #0e0f13;
+  color: #f2f3f5;
+  font: 16px/1.6 "Segoe UI", system-ui, sans-serif;
+}
+main { max-width: 680px; margin: 0 auto; padding: 56px 16px 72px; }
+h1 { font-size: 40px; line-height: 1.1; margin: 16px 0 8px; letter-spacing: -1px; }
+h2 { font-size: 18px; margin: 32px 0 6px; color: #ff6b6b; }
+.lead { color: #a1a7b3; font-size: 18px; }
+p, li { color: #d4d7dd; }
+a { color: #ff8a5b; }
+code { background: #1b1d25; padding: 1px 6px; border-radius: 5px; font-size: 14px; }
+img { border-radius: 16px; }
